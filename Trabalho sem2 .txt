@@ -1,0 +1,4 @@
+Os algoritmos das redes sociais identificam quais publicações devem ser entregues para mais ou menos pessoas. Eles decidem como ranquear os resultados de um feed, a partir do grau de relevância daquele conteúdo para cada usuário.Esses algoritmos são constantemente ajustados e refinados de acordo com o feedback do usuário e os objetivos da plataforma, como aumentar o engajamento, manter os usuários e monetizar a rede. Contudo, eles têm sido objeto de discussão devido à sua capacidade de influenciar o comportamento do usuário, espalhar informações incorretas e gerar bolhas de filtro. Os algoritmos levam em conta, principalmente, o comportamento e a interação do usuário com o seu conteúdo. Se o usuário interage, comentando, curtindo ou compartilhando suas publicações, maiores as chances do seu conteúdo continuar aparecendo na linha do tempo dele.
+
+
+
