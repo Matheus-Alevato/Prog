@@ -1,0 +1,15 @@
+print("Matheus")
+
+numero = 10
+nome = Hugo
+booleano = true #tem esse nome por causa do inventor
+
+#numeros reais ocupam mais espaço na memória
+numero_real = 10.0
+
+resposta = (2 > 3) or (4 == 5 and numero!= 10)
+
+#A ordem de precedencia é, respectivamente, not, and e or.
+
+#Codigo de exemplo:
+(57%3)
